@@ -1,4 +1,4 @@
-# Dummy Website
+# Test Website
 # My Interests
 I'm interested in teaching novice coders about computer science!
 # My Blog
